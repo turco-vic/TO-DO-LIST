@@ -70,6 +70,8 @@ button {
     height: 7vh;
     border-radius: 10px;
     font-size: 25px;
-    background-color: #58bd3a;
+    background-color: #37b112;
+    border: 1px solid #279c03;
     color: #ffffff;
+    cursor: pointer;
 }
